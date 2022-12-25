@@ -1,5 +1,5 @@
 package greet
 
-func English() {
-
+func English() string {
+	return "Hello MotherFucker"
 }
